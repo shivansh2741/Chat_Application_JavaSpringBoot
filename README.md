@@ -92,7 +92,7 @@ Message sending process is provided by SockJS with STOMP (simple text oriented m
         <p>
             Login form connected to Spring Security
         </p>
-        <img src="./readme-img/login.png" alt="ChatMate login">
+        <img src="./readme-img/login.jpeg" alt="ChatMate login">
     </li>
 <div style="padding: 5px 0"></div> <!--spacing 10px-->
     <li>
@@ -100,7 +100,7 @@ Message sending process is provided by SockJS with STOMP (simple text oriented m
         <p>
             Registration form connected to Spring Security and Confirmation email sender
         </p>
-        <img src="./readme-img/register.png" alt="ChatMate register">
+        <img src="./readme-img/register.jpeg" alt="ChatMate register">
     </li>
 <div style="padding: 5px 0"></div> <!--spacing 10px-->
     <li>
@@ -108,15 +108,7 @@ Message sending process is provided by SockJS with STOMP (simple text oriented m
         <p>
             Dashboard page with user interface.
         </p>
-        <img src="./readme-img/dashboard.png" alt="ChatMate dashboard">
-    </li>
-<div style="padding: 5px 0"></div> <!--spacing 10px-->
-    <li>
-        <p>PERSONAL INFORMATION <b>http://localhost:8095/dashboard</b></p>
-        <p>
-            User information displayed from the fetch GET request to endpoint http://localhost:8095/api/user
-        </p>
-        <img src="./readme-img/nickname.png" alt="ChatMate personal information">
+        <img src="./readme-img/dashboard.jpeg" alt="ChatMate dashboard">
     </li>
 <div style="padding: 5px 0"></div> <!--spacing 10px-->
     <p>CHATTING <b>http://localhost:8095/dashboard</b></p>
@@ -124,7 +116,7 @@ Message sending process is provided by SockJS with STOMP (simple text oriented m
             Chat messaging with SockJS requests to /chat endpoint. Messages are displayed according to the user information: 
             generated avatar, nickname, generated message body that includes inputted message text. 
         </p>
-        <img src="./readme-img/chatting.png" alt="ChatMate chat">
+        <img src="./readme-img/chatting.jpeg" alt="ChatMate chat">
 </ul>
 
 <div style="padding: 10px 0"></div> <!--spacing 20px-->
@@ -136,6 +128,6 @@ Message sending process is provided by SockJS with STOMP (simple text oriented m
 <p>Go to the link: http://localhost:8095/login</p>
 <div style="padding: 5px 0"></div> <!--spacing 10px-->
 
-<img src="./readme-img/email.png" alt="ChatMate chat">
+<img src="./readme-img/email.jpeg" alt="ChatMate chat">
 
 <div style="padding: 10px 0"></div> <!--spacing 20px-->
