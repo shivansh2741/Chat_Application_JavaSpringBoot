@@ -1,6 +1,6 @@
 <h1 align="center">WEB CHAT APPLICATION (ChatMate)</h1>
 <div style="display: flex; align-items: center; justify-content: center">
-<img src="./readme-img/cm.png" style="margin: auto" alt="ChatMate application" width="100">
+<img src="./readme-img/cm.jpeg" style="margin: auto" alt="ChatMate application" width="100">
 </div>
 
 <h4 align="center">
